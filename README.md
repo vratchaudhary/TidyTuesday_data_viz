@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html>
 <head>
-
 <style>
- img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
+img {
+  opacity: 0.5;
 }
+</style>
+
 </head>
 <body>
- </style>
+
+
+
 
   <h1> Tidy Tuesday Examples </h1>
 <p>
