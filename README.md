@@ -28,7 +28,7 @@ I like data visualization and Tidy Tuesday is super cool as it gives a chance to
 <h2> <a href= "https://github.com/vratchaudhary/TidyTuesday_data_viz/tree/master/2022"> 2022 </a> </h2>
  
 
-<img src="https://github.com/vratchaudhary/TidyTuesday_data_viz/blob/master/2022/Week2/p.png" alt="Week 2"  width="300" height="300">
+<img src="https://github.com/vratchaudhary/TidyTuesday_data_viz/blob/master/2022/Week2/p.png" alt="Week 2"  width="300" height="300" border-radius: 8px;>
 <h2> <a href= "https://github.com/vratchaudhary/TidyTuesday_data_viz/blob/master/2022/Week2/2022_week2.R"> Week 2 code </a> </h2>
 
  
