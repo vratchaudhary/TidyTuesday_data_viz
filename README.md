@@ -1,11 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-img {
-  opacity: 0.5;
-}
-</style>
+  <h1> Tidy Tuesday Examples </h1>
 
 </head>
 <body>
@@ -13,7 +9,7 @@ img {
 
 
 
-  <h1> Tidy Tuesday Examples </h1>
+
 <p>
 I like data visualization and Tidy Tuesday is super cool as it gives a chance to create interesting visualization with fun data. Also the community component of Tidy Tuesday is really inspiring. Poeple are creating such amazing data visualizations. There is so much I get to learn from the community. My submissions are below with the link to the code.
 </p>
